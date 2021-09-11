@@ -5,7 +5,7 @@ env:
     LOGIN: SonarCredentials:eab6c503f3e2d942acd722f4e158bfb808c08767
     HOST: SonarCredentials:host
     Organization: SonarCredentials:saurabh98
-    Project: SonarCredentials:saurabh-potdar_sonar
+    Project: SonarCredentials:saurabh98
 
 phases:
   install:
