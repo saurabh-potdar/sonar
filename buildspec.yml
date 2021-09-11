@@ -2,10 +2,10 @@ version: 0.2
 
 env:
   secrets-manager:
-    LOGIN: SonarCredentials:sonartoken
+    LOGIN: SonarCredentials:eab6c503f3e2d942acd722f4e158bfb808c08767
     HOST: SonarCredentials:host
-    Organization: SonarCredentials:organization
-    Project: SonarCredentials:projectKey
+    Organization: SonarCredentials:saurabh98
+    Project: SonarCredentials:saurabh-potdar_sonar
 
 phases:
   install:
