@@ -5,7 +5,7 @@ env:
     LOGIN: SonarCredentials:eab6c503f3e2d942acd722f4e158bfb808c08767
     HOST: SonarCredentials:https://sonarclound.io
     Organization: SonarCredentials:saurabh98
-    Project: SonarCredentials:Order-Microservice
+    Project: SonarCredentials:saurabh-potdar_sonar
 
 phases:
   install:
